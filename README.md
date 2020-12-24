@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+💬![minimilkfish's github status](https://github-readme-status.vercel.app/api?username=minimilkfish&hide[%22issuses%22]&show_icons=true)
+
 <!--
 **MiniMilkfish/MiniMilkfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
